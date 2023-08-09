@@ -2,7 +2,6 @@
 	<body>
 	<h1>hello world</h1>
 	<h2>Amtiaz Ahmed </h2>
-	<h2>Awais Ahmed </h2>
-	<h3>Sindh University Jamshoro</h3>
+	<h3>Mehran University Jamshoro</h3>
 	</body>
 </html>
